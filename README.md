@@ -35,5 +35,8 @@
 # Communities
 - [DevRel Collective](https://devrelcollective.fun/)
 
+# People
+- [Twitter List of Devrels](https://twitter.com/i/lists/1157031092102189056)
+
 # Credits
 Credit to [awesome devrel repo](https://github.com/dmitryvinn/awesome-dev-advocacy) & [Delba de Oliviera's twitter post](https://twitter.com/delba_oliveira/status/1412066769724968962) for the inspiration & resources.
