@@ -1,5 +1,5 @@
 # Devrel Resources
-> A repo filled with devrel resources, books, & people to follow.
+> A repo filled with [devrel](https://www.samjulien.com/what-is-developer-relations) resources, books, & people to follow.
 
 # Books
 - [The Business Value of Developer Relations](https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471/ref=pd_sbs_1/137-5281060-5988909?pd_rd_w=j1ksT&pf_rd_p=f8e24c42-8be0-4374-84aa-bb08fd897453&pf_rd_r=5J80EP23D4HT23HFJA2K&pd_rd_r=fe52f5c1-5dcc-4f78-914f-126eac837a09&pd_rd_wg=jAKKa&pd_rd_i=1484237471&psc=1) by [Mary Thengvall](https://twitter.com/mary_grace)
