@@ -1,5 +1,5 @@
 # Devrel Resources
-> A repo filled with devrel resources, podcasts, & communities.
+> A repo filled with devrel resources, books, & people to follow.
 
 # Books
 - [The Business Value of Developer Relations](https://www.amazon.com/Business-Value-Developer-Relations-Communities/dp/1484237471/ref=pd_sbs_1/137-5281060-5988909?pd_rd_w=j1ksT&pf_rd_p=f8e24c42-8be0-4374-84aa-bb08fd897453&pf_rd_r=5J80EP23D4HT23HFJA2K&pd_rd_r=fe52f5c1-5dcc-4f78-914f-126eac837a09&pd_rd_wg=jAKKa&pd_rd_i=1484237471&psc=1) by [Mary Thengvall](https://twitter.com/mary_grace)
@@ -37,8 +37,15 @@
 # Communities
 - [DevRel Collective](https://devrelcollective.fun/)
 
-# People
-- [Twitter List of Devrels](https://twitter.com/i/lists/1157031092102189056)
+# People (& 7 amazing devrel leaders I look up to)
+- [Twitter List of ~100 Devrels](https://twitter.com/i/lists/1157031092102189056)
+- [Kelsey Hightower](https://twitter.com/kelseyhightower) - one of my favorite speakers and master of live demos. Incredible at storytelling and answering questions. 
+- [Nader Dabit](https://twitter.com/dabit3) - inspirational journey into tech and loves to shine the spotlight on others. Has the best end-to-end tutorials around.
+- [Cassidy Williams](https://twitter.com/cassidoo) - I follow her newsletter just to get inspired by how much work she gets done in a week. Best tiktoks on twitter.
+- [Jason Lengstorf](https://twitter.com/jlengstorf) - The Bob Ross of web development. Incredible livestreamer and explainer of things.
+- [Angie Jones](https://twitter.com/techgirl1908) - a treasure to the developer community. Incredible speaker and Java Queen.
+- [Lee Robinson](https://twitter.com/leeerob) - an example of a great overall devrel. Very active & helpful in the dev community.
+- [Sam Julien](https://twitter.com/samjulien) - great mentor figure for devrel folks. Creates great resources to help others be better devrels
 
 # Credits
 Credit to [awesome devrel repo](https://github.com/dmitryvinn/awesome-dev-advocacy) & [Delba de Oliviera's twitter post](https://twitter.com/delba_oliveira/status/1412066769724968962) for the inspiration & resources.
