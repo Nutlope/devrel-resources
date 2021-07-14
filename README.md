@@ -12,6 +12,7 @@
 - [Orbit's Blog](https://orbit.love/blog/)
 - [StephanieMorillo's Blog](https://www.stephaniemorillo.co/blog)
 - [Mary Thengvall's Blog](https://www.marythengvall.com/blog/category/DevRel)
+- [Swyx's WIP Devrel Guide](https://codingcareer.circle.so/c/dev-communities/developer-relations-wip-guide)
 
 # Podcasts
 - [DevRel Radio](https://devrelrad.io/)
