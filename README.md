@@ -12,7 +12,6 @@
 - [Orbit's Blog](https://orbit.love/blog/)
 - [StephanieMorillo's Blog](https://www.stephaniemorillo.co/blog)
 - [Mary Thengvall's Blog](https://www.marythengvall.com/blog/category/DevRel)
-- [Swyx's WIP Devrel Guide](https://codingcareer.circle.so/c/dev-communities/developer-relations-wip-guide)
 
 # Podcasts
 - [DevRel Radio](https://devrelrad.io/)
@@ -34,6 +33,10 @@
 - [State of Devrel 2020](https://www.reverecommunications.com/post/state-of-developer-relations-2020-report)
 - [State of the Developer Nation](https://www.slashdata.co/free-resources/)
 - [The Big Community Tools Survey 2021](https://orbit.love/blog/the-big-community-tools-survey-2021) (Still in progress!)
+
+# Guides
+- [Devrel Resources by Mary Thenvall](https://devrelresourc.es/)
+- [Swyx's WIP Devrel Guide](https://codingcareer.circle.so/c/dev-communities/developer-relations-wip-guide)
 
 # Communities
 - [DevRel Collective](https://devrelcollective.fun/)
